@@ -1,0 +1,10 @@
+messages:
+  no-permission: "&cYou don't have permission!"
+  player-not-found: "&cPlayer not found."
+  invalid-number: "&cInvalid number insert!"
+  invalid-usage: "&cUse: /adminlevel <set/add/remove> (player) [amount]"
+  statistics-format:
+    - "&2&l%player% LEVEL STATISTICS"
+    - ""
+    - "&7- &fLevel: &2%level%"
+    - "&7- &fXP: &a%levelsystem_current_xp%&8/&2%levelsystem_required_xp%"

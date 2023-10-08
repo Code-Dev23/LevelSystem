@@ -1,0 +1,14 @@
+name: LevelSystem
+version: '${version}'
+main: it.soydev.levelsystem.Level
+api-version: '1.19'
+author: SoyDev_
+commands:
+  level:
+    aliases:
+      - levelstats
+      - statslevel
+      - lvl
+  levelsystem:
+    aliases:
+      - lvlsystem
